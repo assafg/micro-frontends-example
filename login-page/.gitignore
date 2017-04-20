@@ -1,0 +1,6 @@
+.idea/
+/node_modules
+/test-reports
+/coverage
+npm-debug.log
+src/demo/DemoApp.view.js
