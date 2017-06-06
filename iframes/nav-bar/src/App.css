@@ -1,4 +1,8 @@
 .App {
 }
 
+.hidden {
+    visibility: collapse;
+}
+
 
